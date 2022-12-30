@@ -1,0 +1,41 @@
+{
+  "name": "@letele/svg-icons",
+  "version": "0.1.0",
+  "description": "svg icons for react applications",
+  "module": "dist/index.esm.js",
+  "files": ["dist"],
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "prebuild": "rimraf src && rimraf dist",
+    "build": "npm run svgr && rollup -c",
+    "svgr": "svgr --icon --title-prop -d src assets"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/letele/svg-icons.git"
+  },
+  "keywords": [
+    "react icons",
+    "svg icons"
+  ],
+  "author": "Letele Motebang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/letele/svg-icons/issues"
+  },
+  "homepage": "https://github.com/letele/svg-icons#readme",
+  "dependencies": {
+    "@babel/runtime": "^7.19.0"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-runtime": "^7.19.1",
+    "@babel/preset-env": "^7.19.1",
+    "@babel/preset-react": "^7.18.6",
+    "@rollup/plugin-babel": "^5.3.1",
+    "@rollup/plugin-multi-entry": "^4.1.0",
+    "@svgr/cli": "^6.3.1",
+    "rollup": "^2.79.0",
+    "rollup-plugin-filesize": "^9.1.2",
+    "rollup-plugin-multi-input": "^1.3.1"
+  }
+}
