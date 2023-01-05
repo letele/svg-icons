@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/letele/svg-icons/issues"
   },
-  "homepage": "https://github.com/letele/svg-icons#readme",
+  "homepage": "https://letele.github.io/svg-icons-app/",
   "dependencies": {
     "@babel/runtime": "^7.19.0"
   },
