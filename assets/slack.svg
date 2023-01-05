@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="slack.svg"
+   width="16"
+   height="16"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="32"
+     inkscape:cx="7.984375"
+     inkscape:cy="8"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <g
+     fill="none"
+     fill-rule="evenodd"
+     id="g10"
+     transform="matrix(0.29405884,0,0,0.29405884,0.09569856,0.04085641)">
+    <path
+       fill="#36c5f0"
+       d="m 19.712,0.133 a 5.381,5.381 0 0 0 -5.376,5.387 5.381,5.381 0 0 0 5.376,5.386 h 5.376 V 5.52 A 5.381,5.381 0 0 0 19.712,0.133 m 0,14.365 H 5.376 A 5.381,5.381 0 0 0 0,19.884 5.381,5.381 0 0 0 5.376,25.271 h 14.336 a 5.381,5.381 0 0 0 5.376,-5.387 5.381,5.381 0 0 0 -5.376,-5.386"
+       id="path2" />
+    <path
+       fill="#2eb67d"
+       d="m 53.76,19.884 a 5.381,5.381 0 0 0 -5.376,-5.386 5.381,5.381 0 0 0 -5.376,5.386 v 5.387 h 5.376 a 5.381,5.381 0 0 0 5.376,-5.387 m -14.336,0 V 5.52 A 5.381,5.381 0 0 0 34.048,0.133 5.381,5.381 0 0 0 28.672,5.52 v 14.364 a 5.381,5.381 0 0 0 5.376,5.387 5.381,5.381 0 0 0 5.376,-5.387"
+       id="path4" />
+    <path
+       fill="#ecb22e"
+       d="m 34.048,54 a 5.381,5.381 0 0 0 5.376,-5.387 5.381,5.381 0 0 0 -5.376,-5.386 h -5.376 v 5.386 A 5.381,5.381 0 0 0 34.048,54 m 0,-14.365 H 48.384 A 5.381,5.381 0 0 0 53.76,34.249 5.381,5.381 0 0 0 48.384,28.862 H 34.048 a 5.381,5.381 0 0 0 -5.376,5.387 5.381,5.381 0 0 0 5.376,5.386"
+       id="path6" />
+    <path
+       fill="#e01e5a"
+       d="m 0,34.249 a 5.381,5.381 0 0 0 5.376,5.386 5.381,5.381 0 0 0 5.376,-5.386 V 28.862 H 5.376 A 5.381,5.381 0 0 0 0,34.25 M 14.336,34.249 V 48.613 A 5.381,5.381 0 0 0 19.712,54 5.381,5.381 0 0 0 25.088,48.613 V 34.25 a 5.381,5.381 0 0 0 -5.376,-5.387 5.381,5.381 0 0 0 -5.376,5.387"
+       id="path8" />
+  </g>
+</svg>

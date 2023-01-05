@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   preserveAspectRatio="xMidYMid"
+   id="svg6"
+   sodipodi:docname="apple-seeklogo.com.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="32"
+     inkscape:cx="7.984375"
+     inkscape:cy="8"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <g
+     id="g4"
+     transform="matrix(0.05049402,0,0,0.05049402,1.5367654,0.06233514)">
+    <path
+       d="m 213.80339,167.03094 c 0.44181,47.57871 41.73909,63.4117 42.19661,63.61379 -0.34919,1.11663 -6.59862,22.56356 -21.75737,44.71672 -13.10408,19.15252 -26.70438,38.23488 -48.12887,38.63009 -21.05171,0.3879 -27.82101,-12.48371 -51.88907,-12.48371 -24.06079,0 -31.58179,12.08847 -51.509577,12.87161 C 62.035041,315.16201 46.287383,293.66852 33.074408,274.58616 6.0752932,235.55254 -14.557617,164.28633 13.147166,116.18047 26.910311,92.290905 51.506092,77.163036 78.202612,76.77511 98.509914,76.387746 117.67759,90.437185 130.0917,90.437185 c 12.40624,0 35.69905,-16.895682 60.18593,-14.414338 10.25104,0.426658 39.02588,4.140841 57.50299,31.186543 -1.4888,0.92294 -34.33427,20.04402 -33.97723,59.8216 M 174.23914,50.198703 C 185.21833,36.908832 192.60796,18.408102 190.59199,0 c -15.82568,0.63605022 -34.96248,10.545791 -46.31388,23.828351 -10.17304,11.762325 -19.08234,30.588677 -16.67845,48.632442 17.63957,1.36475 35.65975,-8.963767 46.63948,-22.262068"
+       fill="#000000"
+       id="path2" />
+  </g>
+</svg>

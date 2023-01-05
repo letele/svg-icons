@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   preserveAspectRatio="xMidYMid"
+   id="svg6"
+   sodipodi:docname="pytorch.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="32"
+     inkscape:cx="7.984375"
+     inkscape:cy="8"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <g
+     id="g4"
+     transform="matrix(0.05130475,0,0,0.05130475,1.4329919,0.06225221)">
+    <path
+       d="m 218.28104,90.106412 c 50.29195,50.291948 50.29195,130.968618 0,181.609818 -49.24421,50.29196 -130.270126,50.29196 -180.562077,0 -50.291951,-50.29195 -50.291951,-131.31787 0,-181.609818 L 127.82537,0 v 45.053206 l -8.38199,8.381992 -59.721688,59.721692 c -37.718964,37.02046 -37.718964,97.7899 0,135.50887 37.020463,37.71896 97.789908,37.71896 135.508868,0 37.71896,-37.02047 37.71896,-97.78991 0,-135.50887 z m -45.05321,-5.587995 c -9.25849,0 -16.76398,-7.505491 -16.76398,-16.763983 0,-9.258493 7.50549,-16.763984 16.76398,-16.763984 9.25849,0 16.76398,7.505491 16.76398,16.763984 0,9.258492 -7.50549,16.763983 -16.76398,16.763983 z"
+       fill="#ee4c2c"
+       id="path2" />
+  </g>
+</svg>

@@ -5,7 +5,7 @@ const config = {
   input: 'src/index.js',
   output: {
     file: 'dist/index.esm.js',
-    format: 'ems'
+    format: 'es'
   },
   external: [/@babel\/runtime/, 'react'],
   plugins: [ 
