@@ -1,9 +1,11 @@
 {
   "name": "@letele/svg-icons",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "svg icons for react applications",
   "module": "dist/index.esm.js",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "types": "lib/index.d.ts",
   "scripts": {
     "prebuild": "rimraf src && rimraf dist",
