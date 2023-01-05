@@ -1,5 +1,6 @@
 # svg-icons &#10024;
 svg icons for react applications 
+- url : https://letele.github.io/svg-icons-app/
 
 ## Installation &#128640;
 <code>npm install @letele/svg-icons</code>
